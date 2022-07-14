@@ -1,0 +1,7 @@
+train: /content/Vehicle_registration_plates/images/train/
+val: /content/Vehicle_registration_plates/images/val/
+
+# number of classes
+nc: 1
+# class names
+names: [ 'licence' ]
